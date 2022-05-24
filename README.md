@@ -1,5 +1,5 @@
 # Fundamentos-React
-Projeto desenvolvido com fundamentos dos React
+Projeto desenvolvido com fundamentos dos React na trilha Especializar Rocketseat
 
 - Frangment
 - Componentes
