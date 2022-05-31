@@ -1,9 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-
-import {Home} from './src/pages/home'
-
-
+import {Home} from '../Fundamentos-React/src/pages/home/index'
 import './styles/global.css';
 
 

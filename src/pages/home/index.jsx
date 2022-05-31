@@ -71,4 +71,5 @@ return (
   )
 }
 
+export default Home;
 
